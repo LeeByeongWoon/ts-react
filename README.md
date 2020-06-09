@@ -1,16 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app) 으로 제작 되었습니다.
 
-## Available Scripts
+## 사용 가능한 스크립트
 
-In the project directory, you can run:
+프로젝트 디렉토리 내에서 실행가능한 스크립트들:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+개발자 모드에서 앱을 실행합니다.<br />
+ [http://localhost:3000](http://localhost:3000) 이 주소로 열리게 되며, 브라우저에서 확인 할 수 있습니다.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+수정시 페이지에 바로 반영됩니다.<br />
+또한 lint 에러도 바로 콘솔에서 확인 가능합니다..
 
 ### `yarn test`
 
